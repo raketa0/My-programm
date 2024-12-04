@@ -1,0 +1,7 @@
+﻿  lb4.cpp
+C:\Users\Арбузер\OneDrive\Desktop\lb4\lb4.cpp(123,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Арбузер\OneDrive\Desktop\lb4\lb4.cpp(124,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Арбузер\OneDrive\Desktop\lb4\lb4.cpp(126,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Арбузер\OneDrive\Desktop\lb4\lb4.cpp(127,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Арбузер\OneDrive\Desktop\lb4\lb4.cpp(307,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lb4.vcxproj -> C:\Users\Арбузер\OneDrive\Desktop\lb4\x64\Debug\lb4.exe
