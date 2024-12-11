@@ -1,0 +1,7 @@
+﻿  nika.cpp
+C:\Users\Арбузер\source\repos\nika\nika.cpp(36,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Арбузер\source\repos\nika\nika.cpp(37,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Арбузер\source\repos\nika\nika.cpp(51,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Арбузер\source\repos\nika\nika.cpp(62,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Арбузер\source\repos\nika\nika.cpp(147,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  nika.vcxproj -> C:\Users\Арбузер\source\repos\nika\x64\Debug\nika.exe
