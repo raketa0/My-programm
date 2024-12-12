@@ -1,0 +1,8 @@
+.slideList {
+    border-right: 2px solid rgb(0, 0, 0);
+}
+
+.item {
+    margin: 10px;
+    border-radius: 10px;
+}

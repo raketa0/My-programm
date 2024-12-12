@@ -1,0 +1,11 @@
+.slide {
+    position: relative;
+    border: 1px solid #dadce0;
+}
+.resizeHandle {
+    position: relative;
+    width: 10px; /* Ширина точки изменения размера */
+    height: 10px; /* Высота точки изменения размера */
+    background-color: blue; /* Цвет точки изменения размера */
+    z-index: 10; /* Убедитесь, что точка расположена поверх других элементов */
+  }
