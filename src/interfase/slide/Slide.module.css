@@ -1,0 +1,19 @@
+.slide {
+    position: relative;
+}
+.resizeHandle {
+    position: relative;
+    width: 10px; /* Ширина точки изменения размера */
+    height: 10px; /* Высота точки изменения размера */
+    background-color: blue; /* Цвет точки изменения размера */
+    z-index: 10; /* Убедитесь, что точка расположена поверх других элементов */
+  }
+
+  .selectedSlide {
+    outline: 3px solid #0b57d0
+}
+
+.slideWrapper {
+    margin: 10px;
+    border-radius: 10px;
+}
